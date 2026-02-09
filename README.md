@@ -14,7 +14,7 @@
 
 ## Current Projects
 
-- 🧠 **[Project Nabula](https://github.com/muhammadtalhaishtiaq/project-nabula)** - Learning platform for machine learning. Interactive labs (regression, classification, clustering), clean ML workflows, real datasets, rich visualizations, and Colab‑powered playgrounds with a lightweight backend.
+- 🧠 **[AI Orchestrator](https://github.com/muhammadtalhaishtiaq/ai-orchestrator)** - Learning platform for machine learning. Interactive labs (regression, classification, clustering), clean ML workflows, real datasets, rich visualizations, and Colab‑powered playgrounds with a lightweight backend.
 
 - 🏗️ **[Floe](https://github.com/muhammadtalhaishtiaq/Floe)** - RWA (Real World Asset) payments on Arc blockchain. Modern financial infrastructure for the web3 era. **[Live →](https://floe.onrender.com/)**
 
