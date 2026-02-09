@@ -7,7 +7,6 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
-![Gemini](https://img.shields.io/badge/-Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
 ![Web](https://img.shields.io/badge/-Web-0078D4?style=flat-square&logo=microsoft-edge&logoColor=white)
 
 > Building intelligent, production-grade applications with modern AI. I specialize in full-stack development, LLM integration, and blockchain solutions. Currently obsessed with shipping features that actually matter.
